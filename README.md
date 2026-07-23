@@ -28,17 +28,17 @@
 ### 1. 配置 AI API
 支持 OpenAI、Agnes AI（免费）、DeepSeek、通义千问、Kimi、Groq 等 9 种提供商，一键测试连接。
 
-<video src="./public/1-config-api.mp4" controls muted></video>
+https://github.com/user-attachments/assets/e45098e1-1322-4837-9829-d75649bb4586
 
 ### 2. 信息输入
 填写岗位 JD（必填），可选上传简历、补充材料（文本/附件双模式）、职业规划。
 
-<video src="./public/2-input-info.mp4" controls muted></video>
+https://github.com/user-attachments/assets/a807722f-3e6d-4240-a81b-d704928c9f81
 
 ### 3. 结果呈现
 公司文化分析 + 岗位匹配度评估 + 按板块分类的面试问题预测，点击展开即可查看完整参考回答。
 
-<video src="./public/3-result-demo.mp4" controls muted></video>
+https://github.com/user-attachments/assets/e82cb285-ec2e-4b29-b55a-3ff20735b9c5
 
 ---
 
